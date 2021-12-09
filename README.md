@@ -19,7 +19,7 @@
 	<a href="https://www.w3schools.com/css/" target="_blank"> <img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
 			alt="css3" width="40" height="40" /> </a> &nbsp;
-	<a href="https://www.javascript.com/" target="_blank"> <img
+	<!--<a href="https://www.javascript.com/" target="_blank"> <img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
 			alt="js" width="40" height="40" /> </a> &nbsp;
 	<a href="https://getbootstrap.com/" target="_blank"> <img
@@ -39,7 +39,7 @@
 			alt="aws" width="40" height="40" /> </a> &nbsp;
 	<a href="https://www.linux.org" target="_blank"> <img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-			width="40" height="40" /> </a> &nbsp;
+			width="40" height="40" /> </a> &nbsp;-->
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=diksh04-1&label=Profile%20views&color=0e75b6&style=flat" alt="jindal2209" /> </p>
 
