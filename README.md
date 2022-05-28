@@ -19,18 +19,18 @@
 	<a href="https://www.w3schools.com/css/" target="_blank"> <img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
 			alt="css3" width="40" height="40" /> </a> &nbsp;
-	<!--<a href="https://www.javascript.com/" target="_blank"> <img
+	<a href="https://www.javascript.com/" target="_blank"> <img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
 			alt="js" width="40" height="40" /> </a> &nbsp;
 	<a href="https://getbootstrap.com/" target="_blank"> <img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"
 			alt="bootstrap" width="40" height="40" /> </a> &nbsp;
-	<a href="https://reactjs.org" target="_blank"> <img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-			alt="react" width="40" height="40" /> </a> &nbsp;
 	<a href="https://python.org" target="_blank"> <img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
 			alt="python" width="40" height="40" /> </a> &nbsp;
+	<!--<a href="https://reactjs.org" target="_blank"> <img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+			alt="react" width="40" height="40" /> </a> &nbsp;
 	<a href="https://www.djangoproject.com" target="_blank"> <img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
 			alt="django" width="40" height="40" /> </a> &nbsp;
