@@ -41,7 +41,7 @@
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
 			width="40" height="40" /> </a> &nbsp;-->
 </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=diksh04-1&label=Profile%20views&color=0e75b6&style=flat" alt="jindal2209" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=diksh04-1&label=Profile%20views&color=0e75b6&style=flat" alt="luthra0406" /> </p>
 
 
 <!--
