@@ -28,8 +28,7 @@
 	<a href="https://python.org" target="_blank"> <img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
 			alt="python" width="40" height="40" /> </a> &nbsp;
-	
-	<--<a href="https://reactjs.org" target="_blank"> <img
+	<-- <a href="https://reactjs.org" target="_blank"> <img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
 			alt="react" width="40" height="40" /> </a> &nbsp;
 	<a href="https://www.djangoproject.com" target="_blank"> <img
@@ -41,9 +40,9 @@
 	<a href="https://www.linux.org" target="_blank"> <img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
 			width="40" height="40" /> </a> &nbsp;
-	-->
+	
 </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=diksh04-1&label=Profile%20views&color=0e75b6&style=flat" alt="luthra0406" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=diksh04-1&label=Profile%20views&color=0e75b6&style=flat" alt="luthra0406" /> </p>-->
 
 
 <!--
