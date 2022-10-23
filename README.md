@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<h1 align="center">Hi 👋, I'm Dikshant!</h1>
+<h1 align="center">Hi 👋, I'm Dikshant Luthra,a Developer🚀!</h1>
 <br />
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=diksh04&show_icons=true&theme=radical) 
