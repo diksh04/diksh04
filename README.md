@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
-<h1 align="center">Hi 👋, I'm Dikshant Luthra,a Developer🚀!</h1>
-<p> align="left">
-	Hey there, I am Dikshant Luthra
+<h1 align="center">Hi 👋, I'm Dikshant Luthra,a Developer🚀</h1>
+<p align="left">
+    Hey there, I am Dikshant Luthra
 🎓 I am a Frontend Developer and a Problem-Solving enthusiast pursuing IT Engineering.
 
 👨‍💻 I have a passion for software development with a diverse skillset ranging from HTML, CSS, JavaScript, BootStrap, ReactJS(including routing, redux and have made many single-page/multi-page applications), and Firebase to a stronghold on data structures and algorithms.
