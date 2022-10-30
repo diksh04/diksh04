@@ -1,5 +1,17 @@
 <!-- ### Hi there 👋 -->
 <h1 align="center">Hi 👋, I'm Dikshant Luthra,a Developer🚀!</h1>
+<p> align="left">
+	Hey there, I am Dikshant Luthra
+🎓 I am a Frontend Developer and a Problem-Solving enthusiast pursuing IT Engineering.
+
+👨‍💻 I have a passion for software development with a diverse skillset ranging from HTML, CSS, JavaScript, BootStrap, ReactJS(including routing, redux and have made many single-page/multi-page applications), and Firebase to a stronghold on data structures and algorithms.
+
+❤ I am also Tech-Lead of my college society to guide students and create projects with them.
+
+❄ I like to take part in hackathons and coding contests.
+
+💻 I spend most of my time making projects as a Web Developer and solving Data structures and algorithms and giving contests. 
+<p/>
 <br />
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=diksh04&show_icons=true&theme=radical) 
