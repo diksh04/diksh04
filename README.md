@@ -5,9 +5,9 @@
 	
 🎓 I am a Frontend Developer and a Problem-Solving enthusiast pursuing IT Engineering.
 
-👨‍💻 I have a passion for software development with a diverse skillset ranging from HTML, CSS, JavaScript, BootStrap, ReactJS(including routing, redux and have made many single-page/multi-page applications), and Firebase to a stronghold on data structures and algorithms.
+👨‍💻 I have a passion for software development with a diverse skillset ranging from HTML, CSS, JavaScript, BootStrap, ReactJS(including routing, redux, and have made many single-page/multi-page applications), Next Js, Git, Github, and Firebase to a stronghold on data structures and algorithms.
 
-❤ I am also Tech-Lead of my college society to guide students and create projects with them.
+❤ I have industrial-level experience in fast-growing startups like Atttentive.ai and was a mentee in the Microsoft Engage program. I am also Tech-Lead of my college society to guide students and create projects with them.
 
 ❄ I like to take part in hackathons and coding contests.
 
